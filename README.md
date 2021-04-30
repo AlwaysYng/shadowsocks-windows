@@ -4,6 +4,12 @@
 [![Build](https://github.com/shadowsocks/shadowsocks-windows/workflows/Build/badge.svg)](https://github.com/shadowsocks/shadowsocks-windows/actions?query=workflow%3ABuild)
 [![Release](https://github.com/shadowsocks/shadowsocks-windows/workflows/Release/badge.svg)](https://github.com/shadowsocks/shadowsocks-windows/actions?query=workflow%3ARelease)
 
+## Important notice
+
+This repository has been moved to [Shadowsocks-NET/Shadowsocks.NET](https://github.com/Shadowsocks-NET/Shadowsocks.NET).
+Because the owner of the Shadowsocks organization denied our request to transfer the repository, we had to create a new one.
+Development will continue at the new repository.
+
 ## Features
 
 - Connect to Shadowsocks servers.
